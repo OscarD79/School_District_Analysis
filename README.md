@@ -20,13 +20,18 @@ Grades by Spending Per Student:
 ![spending_per_student.png](./Resources/spending_per_student.png)
 
 Math Grades by Grade Levels:
+
 ![Math_by_Grade.png](./Resources/Math_by_Grade.png)
 
 
 Reading Grades by Grade Levels:
+
 ![Reading_by_Grade.png](./Resources/Reading_by_Grade.png)
 
 
 
 ## Summary
 This project clearly shows the benefits of Charter school and smaller student populations. It speaks to the issues of overcrowding in public schools and the need for more schools to accommodate smaller classes. It shows that a higher budget cannot make up for the issue of overcrowded schools. Another factor that may be worth exploring is the average household incomes in the area in which the school is located, as I imagine that plays a factor in the these grades as well.
+
+Pease refer to the Attached JupyterNotebook File:
+[PyCitySchools_Challenge.ipynb](./PyCitySchools_Challenge.ipynb)
